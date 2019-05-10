@@ -1,7 +1,5 @@
 ---
-title: Great te with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/logo-trassa_mesa-de-trabajo-1.svg
 blurb:
   heading: Why Kaldi?
   text: >-
